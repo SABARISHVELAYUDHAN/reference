@@ -88,10 +88,10 @@ it have proper Doc          //                                                  
 and its shows error msg     //error in coding so we can debug it                    <br />
 
 ### CRUD -> Create Read Update Delete   //Resource
-C-> POST        //The Create function allows users to create a new record in the database.(unsafe method)<br />
-R-> GET         //The Read function is similar to a search function. (safe method)<br />
-U-> PUT         //The Update function is used to modify existing records that exist in the database.(unsafe method)<br />
-D-> DELETE      //The Delete function allows users to remove records from a database that is no longer needed. (unsafe method)<br />
+Create-> POST        //The Create function allows users to create a new record in the database.(unsafe method)<br />
+Read-> GET         //The Read function is similar to a search function. (safe method)<br />
+Update-> PUT         //The Update function is used to modify existing records that exist in the database.(unsafe method)<br />
+Delete-> DELETE      //The Delete function allows users to remove records from a database that is no longer needed. (unsafe method)<br />
 
 ### HTTP METHODS -> HyperText Tranfer Protocol
 WWW is about communication between web clients and servers.<br />
