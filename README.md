@@ -111,9 +111,9 @@ All npm packages are defined in files called package.json.<br/>
 The content of package.json must be written in JSON.<br/>
 At least two fields must be present in the definition file: name and version.<br/>
 
-npm i express
-npm i joi
-npm i -g nodemon
+npm i express<br/>
+npm i joi<br/>
+npm i -g nodemon<br/>
 
 ### JSON ->JavaScript Object Notation
 JSON is a lightweight format for storing and transporting data<br/>
@@ -127,10 +127,10 @@ Curly braces hold objects<br/>
 Square brackets hold arrays<br/>
 
 ### XML -> eXtensible Markup Language
-XML stands for eXtensible Markup Language
-XML plays an important role in many different IT systems
-XML is often used for distributing data over the Internet
-It is important for all web developers to have a good understanding of XML
+XML stands for eXtensible Markup Language<br/>
+XML plays an important role in many different IT systems<br/>
+XML is often used for distributing data over the Internet<br/>
+It is important for all web developers to have a good understanding of XML<br/>
 
 ## Reference 
 [W3School](https://www.w3schools.com/js/default.asp)<br/>
