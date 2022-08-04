@@ -3,14 +3,14 @@
 ### Install Visual Studio -> Code Editor
 Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-IDE ->integrated Development Enviornment. eg.HTML, JavaScript.
+IDE ->integrated Development Enviornment. eg.HTML, JavaScript.<br />
 VS cmd pallet- run editor applicaton
 
 #### Search and Editor tool intallation-
 Extensions -> Search -> eg. REST Client -> Install
 
 ### Introduction to Github
-Source Code Repo- source code repository means a revision control system for source code, in order to control the access, creation, maintenance, modification and use of source code.
+Source Code Repo- source code repository means a revision control system for source code, in order to control the access, creation, maintenance, modification and use of source code.<br />
 Remote Storage
 
 #### Github account creation 
@@ -23,12 +23,12 @@ git config --global user.name "man"
 ```
 
 #### Github Repository Creation
-Profile -> Repositories -> New ->
-Repository Name
-Public Repo
-Add README.md
-Add License
-Create repository
+Profile -> Repositories -> New -><br />
+Repository Name<br />
+Public Repo<br />
+Add README.md<br />
+Add License<br />
+Create repository<br />
 
 #### Git basic command          
 ```
@@ -41,8 +41,8 @@ git push origin main             //Push the code to Github platform
 ```
 
 #### Git bash 
-interacts with the repository
-Commate the Githubunic
+Run git commands<br />
+Interacts with remote repository
 
 #### Git
 version-control
@@ -51,9 +51,7 @@ version-control
 Github + Visual Code connection
 
 ### OPerating System
-Linux
-Windows
-MacOS
+Linux/ Windows/ MacOS
 
 #### Basic CMD         
 ```
@@ -68,11 +66,11 @@ exit          //close the cmd
 ```
 
 ### Browser
-Chrome
-Opera mini
-Morzila
-Microsoft Edge
-Safari
+Chrome<br />
+Opera mini<br />
+Morzila<br />
+Microsoft Edge<br />
+Safari<br />
 
 ### Nodejs
 JavaScript runtime built on Chrome's V8 JavaScript Enginee
@@ -80,7 +78,6 @@ JavaScript runtime built on Chrome's V8 JavaScript Enginee
 #### Install and Config Nodejs
 
 nodejs -v       //for version details
-
 
 ## Reference 
 [W3School](https://www.w3schools.com/js/default.asp)<br/>
