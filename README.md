@@ -48,7 +48,7 @@ Interacts with remote repository
 version-control
 
 ### PAT- Personal Access Token 
-Github + Visual Code connection
+Github + Visual Code connection<br />
 Profile -> Settings -> Developer settings -> PAT -> Generate new Token
 
 ### OPerating System
@@ -111,10 +111,29 @@ npm is free to use.<br/>
 All npm packages are defined in files called package.json.<br/>
 The content of package.json must be written in JSON.<br/>
 At least two fields must be present in the definition file: name and version.<br/>
-
+```
 npm i express<br/>
 npm i joi<br/>
 npm i -g nodemon<br/>
+```
+### npx -> Node Package Execute
+To create new REACT APP 
+``` npx create-react-app my-app ```
+
+### Diff btw npm & npx
+#### npm
+If you wish to run package through npm then you have to specify that package in your package.json and install it locally.	
+To use `create-react-app` in npm the commands are `npm install create-react-app` then `create-react-app myApp` (Installation required).	
+Npm is a tool that use to install packages.	
+Packages used by npm are installed globally. You have to care about pollution in the long term.	
+
+##### npx
+A package can be executable without installing the package. It is an npm package runner so if any packages aren’t already installed it will install them automatically.
+In npx you can create a react app without installing the package:
+`npx create-react-app myApp`
+This command is required in every app’s life cycle only once.
+ Npx is a tool that use to execute packages.
+ Packages used by npx are not installed globally. You don’t have to worry about for pollution in the long term. 
 
 ### JSON ->JavaScript Object Notation
 JSON is a lightweight format for storing and transporting data<br/>
