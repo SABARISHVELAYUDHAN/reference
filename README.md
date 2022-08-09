@@ -117,13 +117,15 @@ npm i joi
 npm i -g nodemon 
 ```
 ### npx -> Node Package Execute
-To create new REACT APP 
+To execute the package. <br />
+It is an npm package runner that can execute any package that you want from the npm registry without even installing that package. <br />
+To create new REACT APP <br />
 ``` npx create-react-app my-app ```
 
 ### Diff btw npm & npx
 #### npm
 If you wish to run package through npm then you have to specify that package in your package.json and install it locally. <br />	
-To use ````create-react-app``` in npm the commands are ```npm install create-react-app``` then ```create-react-app myApp``` (Installation required).<br />	
+To use `create-react-app` in npm the commands are `npm install create-react-app` then `create-react-app myApp` (Installation required).<br />	
 Npm is a tool that use to install packages.	<br />
 Packages used by npm are installed globally. You have to care about pollution in the long term.	<br />
 
