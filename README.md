@@ -49,6 +49,7 @@ version-control
 
 ### PAT- Personal Access Token 
 Github + Visual Code connection
+Profile -> Settings -> Developer settings -> PAT -> Generate new Token
 
 ### OPerating System
 Linux/ Windows/ MacOS
